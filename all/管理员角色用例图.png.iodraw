@@ -50,7 +50,7 @@
           <mxGeometry x="393.13" y="297" width="128.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-31" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.75" y="353" width="128.5" height="47" as="geometry" />
+          <mxGeometry x="382.5" y="353" width="128.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-32" value="电影信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387" y="420" width="124" height="47" as="geometry" />
