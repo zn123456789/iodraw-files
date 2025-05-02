@@ -64,6 +64,9 @@
             <mxPoint x="373" y="374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PQO9s7fi9h-uDZzyPMJ4-30" value="用户信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393.13" y="297" width="128.5" height="47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
