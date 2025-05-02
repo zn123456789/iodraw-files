@@ -20,10 +20,10 @@
           <mxGeometry x="380" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-12" value="浏览评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="328" width="90" height="40" as="geometry" />
+          <mxGeometry x="394.5" y="350" width="108" height="62" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-13" value="点赞评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="403" y="426" width="119" height="40" as="geometry" />
+          <mxGeometry x="394.5" y="420" width="119" height="46" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-14" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397.25" y="478" width="120" height="48" as="geometry" />
