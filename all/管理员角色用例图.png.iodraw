@@ -34,10 +34,10 @@
             <mxPoint x="399.5" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQO9s7fi9h-uDZzyPMJ4-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQO9s7fi9h-uDZzyPMJ4-1">
+        <mxCell id="PQO9s7fi9h-uDZzyPMJ4-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="323" y="333" as="sourcePoint" />
-            <mxPoint x="402.63000000000375" y="441" as="targetPoint" />
+            <mxPoint x="238.75" y="347" as="sourcePoint" />
+            <mxPoint x="407.38000000000375" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQO9s7fi9h-uDZzyPMJ4-1">
@@ -53,7 +53,7 @@
           <mxGeometry x="389.75" y="353" width="128.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-32" value="电影信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394.25" y="416" width="124" height="47" as="geometry" />
+          <mxGeometry x="400" y="421" width="124" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-33" value="日志查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="479" width="128.5" height="47" as="geometry" />
