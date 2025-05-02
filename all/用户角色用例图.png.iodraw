@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="95" width="120" height="270" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-3" value="影视点评客户端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="335" y="95" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
