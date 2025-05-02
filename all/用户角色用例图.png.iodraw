@@ -5,31 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-1" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198" y="292" width="30" height="60" as="geometry" />
+          <mxGeometry x="200" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="177" width="118" height="324" as="geometry" />
+          <mxGeometry x="370" y="180" width="120" height="320" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-3" value="影视点评客户端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="177" width="90" height="30" as="geometry" />
+          <mxGeometry x="380" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-4" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="227" width="86" height="30" as="geometry" />
+          <mxGeometry x="380" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-7" value="用户信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="267" width="86" height="30" as="geometry" />
+          <mxGeometry x="380" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-12" value="浏览评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="307" width="86" height="35" as="geometry" />
+          <mxGeometry x="380" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-13" value="点赞评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="357" width="86" height="35" as="geometry" />
+          <mxGeometry x="390" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-14" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="407" width="86" height="35" as="geometry" />
+          <mxGeometry x="380" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-16" value="收藏电影" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="457" width="86" height="35" as="geometry" />
+          <mxGeometry x="390" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQO9s7fi9h-uDZzyPMJ4-1" target="PQO9s7fi9h-uDZzyPMJ4-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
