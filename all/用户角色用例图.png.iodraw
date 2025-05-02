@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="iTOivx5ZH6bBnzHj1iQf">
-    <mxGraphModel dx="1000" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="600" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,28 +8,28 @@
           <mxGeometry x="190" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="120" height="320" as="geometry" />
+          <mxGeometry x="238" y="43" width="120" height="320" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-3" value="影视点评客户端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="334" y="80" width="90" height="30" as="geometry" />
+          <mxGeometry x="252" y="43" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-4" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="130" width="86" height="30" as="geometry" />
+          <mxGeometry x="252" y="93" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-7" value="用户信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="170" width="86" height="30" as="geometry" />
+          <mxGeometry x="252" y="133" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-12" value="浏览评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="210" width="86" height="35" as="geometry" />
+          <mxGeometry x="252" y="173" width="86" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-13" value="点赞评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="260" width="86" height="35" as="geometry" />
+          <mxGeometry x="253" y="223" width="86" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-14" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="310" width="86" height="35" as="geometry" />
+          <mxGeometry x="252" y="273" width="86" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-16" value="收藏电影" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="360" width="86" height="35" as="geometry" />
+          <mxGeometry x="253" y="323" width="86" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
