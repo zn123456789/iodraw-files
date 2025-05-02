@@ -13,7 +13,7 @@
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-3" value="影视点评客户端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="95" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PQO9s7fi9h-uDZzyPMJ4-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQO9s7fi9h-uDZzyPMJ4-4" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="125" width="86" height="45" as="geometry" />
         </mxCell>
       </root>
