@@ -26,7 +26,7 @@
           <mxGeometry x="390" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-14" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="410" width="90" height="40" as="geometry" />
+          <mxGeometry x="380" y="410" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-16" value="收藏电影" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="520" width="120" height="64" as="geometry" />
