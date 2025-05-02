@@ -22,7 +22,7 @@
             <mxPoint x="380" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQO9s7fi9h-uDZzyPMJ4-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQO9s7fi9h-uDZzyPMJ4-1">
+        <mxCell id="PQO9s7fi9h-uDZzyPMJ4-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQO9s7fi9h-uDZzyPMJ4-1" target="PQO9s7fi9h-uDZzyPMJ4-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="350" as="sourcePoint" />
             <mxPoint x="392.87999999999784" y="316.5" as="targetPoint" />
@@ -56,7 +56,7 @@
           <mxGeometry x="387" y="420" width="124" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PQO9s7fi9h-uDZzyPMJ4-33" value="日志查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="479" width="128.5" height="47" as="geometry" />
+          <mxGeometry x="389.75" y="478" width="128.5" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
